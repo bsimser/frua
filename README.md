@@ -1,4 +1,4 @@
-# Forgotten Realms: Unlimted Adventures
+# Forgotten Realms: Unlimited Adventures
 
 This is a source recreation of the original video game released on March 17, 1993, by Strategic Simulations Inc. The original game was released for the IBM PC and Apple Macintosh. Forgotten Realms: Unlimited Adventures, also known as Unlimited Adventures, or by the acronyms FRUA or UA.
 
